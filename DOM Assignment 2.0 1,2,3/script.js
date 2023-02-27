@@ -24,7 +24,7 @@
 
 // Task 5
 
-let btn = document.querySelector(".hero-right-section-btns");
-let createBtn = document.createElement("button");
-createBtn.innerText = "Support Me";
-btn.appendChild(createBtn);
+// let btn = document.querySelector(".hero-right-section-btns");
+// let createBtn = document.createElement("button");
+// createBtn.innerText = "Support Me";
+// btn.appendChild(createBtn);
