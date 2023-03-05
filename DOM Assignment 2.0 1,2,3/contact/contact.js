@@ -10,6 +10,7 @@ window.localStorage.setItem("inputName",inputName.value)
 
 const btns = document.querySelectorAll("button")
 
+// this is 
 
 btns[2].addEventListener("click",(event)=>{   
     outputName.value = inputName.value;
