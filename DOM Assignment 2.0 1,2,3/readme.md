@@ -118,6 +118,7 @@ img.src = "./1677471918634.png";
 ### Solution
 
 <br>
+<br>
 
 ```javascript
 let btn = document.querySelector(".hero-right-section-btns");
