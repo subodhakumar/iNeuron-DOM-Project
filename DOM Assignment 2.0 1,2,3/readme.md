@@ -110,7 +110,6 @@ img.src = "./1677471918634.png";
 ### Question: The user to append a new btn element in the hero-right-section-btns class btn named "Support me"
 
 <br>
-<br>
 
 ### Output 
 
